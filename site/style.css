@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; color: #222; line-height: 1.5; }
+header { border-bottom: 2px solid #2563eb; margin-bottom: 1rem; }
+h1 { margin-bottom: 0.2rem; }
+h2 { color: #2563eb; }
+footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc; color: #666; font-size: 0.9rem; }
